@@ -1,0 +1,4 @@
+Il codice è scritto in javascript. 
+Con document.write si scrive qualcosa nel documento html,nel nostro caso un'immagine.
+Con src si specifica l'url dell'immagine da caricare.
+Document.cookie è una variabile che contine i cookie che vengono inviati al  nostro server in ascolto creato con netcat.
